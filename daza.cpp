@@ -1,1 +1,1 @@
-#include <iostream>\nusing namespace std;\nint main() {cout << "pupipapupi";return 0;}
+#include <iostream>\nusing namespace std;\nint main() {cout << "name";return 0;}
